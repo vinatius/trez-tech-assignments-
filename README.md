@@ -1,1 +1,2 @@
-# trez-tech-assignments-
+# git class assignment 
+# treztech assignment-
